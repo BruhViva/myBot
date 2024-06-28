@@ -1,6 +1,6 @@
 import { createContext, useState } from "react";
 import run from "../config/JackJackBot.JS";
-import { Chat } from "openai/resources/index.mjs";
+
 
 export const Context = createContext();
 
@@ -74,7 +74,7 @@ const ContextProvider = (props) => {
         resultData,
         input,
         setInput,
-        Chat,
+        run,
         newChat,
 
     }
