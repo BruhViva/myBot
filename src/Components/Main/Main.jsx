@@ -68,7 +68,7 @@ const Main = () => {
                     </div>
                 </div>
                 <p className="bottom-info">
-                    Jack Jack Bot may display innacurate information, including about people, so double-check its responses.
+                    Type in your search query, then click on the send icon. Limited functionality for the time being.
                 </p>
 
             </div>
